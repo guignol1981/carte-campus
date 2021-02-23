@@ -1,0 +1,37 @@
+{
+    "fileNameCase": "kebab",
+    "folderNameCase": "kebab",
+    "templatePath": "/src/templates/",
+    "entityConfigs": [
+        {
+            "name": "component",
+            "prefix": "App",
+            "path": "/src/components",
+            "fileConfigs": [
+                {
+                    "name": "*.vue",
+                    "template": "component.txt"
+                },
+                {
+                    "name": "index.ts",
+                    "template": "index.txt"
+                }
+            ]
+        },
+        {
+            "name": "view",
+            "prefix": "App",
+            "path": "/src/views",
+            "fileConfigs": [
+                {
+                    "name": "*.vue",
+                    "template": "view.txt"
+                },
+                {
+                    "name": "index.ts",
+                    "template": "index.txt"
+                }
+            ]
+        }
+    ]
+}

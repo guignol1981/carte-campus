@@ -1,0 +1,32 @@
+{
+    "label": {
+        "get-diagnostic": "Get a diagnostic service",
+        "learn-more-technology": "Learn more about our technology",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "email": "Email",
+        "company": "Company",
+        "phone": "Phone",
+        "message": "Message",
+        "max-char": "Max.{count} characters",
+        "submit": "Submit",
+        "optional": "Optionnal",
+        "message-sent": "Message sent!"
+    },
+    "navigation": {
+        "home": "Home",
+        "technology": "Technology",
+        "news": "News",
+        "about": "About us",
+        "contact": "Contact us"
+    },
+    "features": {
+        "title": "Outil de diagnostic pour combattre la pourriture des racines",
+        "precision-title": "Précision",
+        "precision-body": "Nous utilisons des marqueurs génétiques qui vous indiquent précisément quels cultivars résistants utiliser au champ",
+        "adaptability-title": "Adaptabilité",
+        "adaptability-body": "Notre outil détecte l’apparition de nouveaux variants, pour un diagnostic qui évolue avec la maladie",
+        "durability-title": "Durabilité",
+        "durability-body": "Renforce une méthode de lutte durable et efficace tout en diminuant vos pertes de rendements"
+    }
+}
