@@ -1,0 +1,19 @@
+<template>
+    <div class="{{PREFIXED_SINGULAR_KEBAB}}">
+        Component {{PREFIXED_SINGULAR_PASCAL}} was created with genCli.
+    </div>
+</template>
+
+<script lang="ts">
+import { Vue, Component } from 'vue-property-decorator';
+
+@Component
+export default class {{PREFIXED_SINGULAR_PASCAL}}View extends Vue {}
+</script>
+
+<style lang="scss" scoped>
+.{{PREFIXED_SINGULAR_KEBAB}} {
+    /* enlever la propriété ci dessous */
+    content: '';
+}
+</style>

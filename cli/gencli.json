@@ -1,12 +1,11 @@
 {
-    "fileNameCase": "kebab",
-    "folderNameCase": "kebab",
-    "templatePath": "/src/templates/",
+    "cliName": "vue2",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnQiOiJ2aW5jZW50IGd1aWxsZW1ldHRlIiwiaWF0IjoxNjIzOTUwMDQ5LCJleHAiOjE2NzU3OTAwNDl9.i7l-pSAifNL9x91DDMZLv226eCW7YUJnz3k76VvIxWk",
     "entityConfigs": [
         {
             "name": "component",
             "prefix": "App",
-            "path": "/src/components",
+            "singularOnly": true,
             "fileConfigs": [
                 {
                     "name": "*.vue",
@@ -14,14 +13,13 @@
                 },
                 {
                     "name": "index.ts",
-                    "template": "index.txt"
+                    "template": "index-component.txt"
                 }
             ]
         },
         {
             "name": "view",
             "prefix": "App",
-            "path": "/src/views",
             "fileConfigs": [
                 {
                     "name": "*.vue",
@@ -29,7 +27,7 @@
                 },
                 {
                     "name": "index.ts",
-                    "template": "index.txt"
+                    "template": "index-view.txt"
                 }
             ]
         }
