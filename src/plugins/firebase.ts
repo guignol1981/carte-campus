@@ -37,6 +37,7 @@ export default {
             firestore.useEmulator('localhost', 8084);
             storage.useEmulator('localhost', 9199);
             functions.useEmulator('localhost', 5001);
+            firebaseAuth.useEmulator('http://localhost:9099');
         }
 
         Vue.prototype.$firebase = firebaseApp;

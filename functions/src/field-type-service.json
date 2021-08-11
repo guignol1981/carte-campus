@@ -1,0 +1,1190 @@
+[
+    {
+        "tid": [
+            {
+                "value": 873
+            }
+        ],
+        "uuid": [
+            {
+                "value": "e64e6313-833a-4b54-b1a8-ecdcde37630e"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 873
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Facult\u00e9"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-14T19:31:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:29:16+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 876
+            }
+        ],
+        "uuid": [
+            {
+                "value": "fbb01ea7-8f7d-4246-ad8e-c9453f3fe45c"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 876
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Service, bureau, unit\u00e9"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-02T13:48:28+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:29:27+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 882
+            }
+        ],
+        "uuid": [
+            {
+                "value": "7885dcf8-5f72-4ae7-8918-e55e8b8bf9b7"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 882
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Association, syndicat"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-04-30T14:29:46+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:29:46+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 885
+            }
+        ],
+        "uuid": [
+            {
+                "value": "3453ed86-993f-4797-bcc2-248cc0b18f95"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 885
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Partenaire"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-04-30T14:29:54+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:29:54+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 888
+            }
+        ],
+        "uuid": [
+            {
+                "value": "c1c73c31-1995-41e6-90d6-016c73111b0e"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 888
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "B\u00e2timent"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-04-30T14:30:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:30:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 891
+            }
+        ],
+        "uuid": [
+            {
+                "value": "b7aed3c8-d037-40af-a91c-f87127357abe"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 891
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Infrastructure, installation, \u00e9quipement"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-02T13:48:47+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:30:08+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 894
+            }
+        ],
+        "uuid": [
+            {
+                "value": "96d28a16-a41e-4fe2-880f-1186b6ef5080"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 894
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Commerce, entreprise"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-14T19:29:23+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:30:14+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 897
+            }
+        ],
+        "uuid": [
+            {
+                "value": "07326466-da46-4937-8daa-907753ccf5fc"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 897
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Service alimentaire"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-04-30T14:30:21+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-04-30T14:30:21+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 900
+            }
+        ],
+        "uuid": [
+            {
+                "value": "a62edec9-31df-43d4-830e-36bd0b404349"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 900
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Direction, instance, comit\u00e9"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-02T13:52:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-05-02T13:52:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 1239
+            }
+        ],
+        "uuid": [
+            {
+                "value": "50077617-500b-43b6-bd17-8fa927ae672d"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 1239
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Premi\u00e8re ligne"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-14T19:30:03+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-05-14T19:30:03+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 1242
+            }
+        ],
+        "uuid": [
+            {
+                "value": "80a6f8cd-03cf-45be-aaa1-44e1be4dc8ed"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 1242
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "Service sp\u00e9cialis\u00e9"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-14T19:30:23+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-05-14T19:30:23+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    },
+    {
+        "tid": [
+            {
+                "value": 1245
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d959abdb-9a0e-4838-8e41-84ab56bff71b"
+            }
+        ],
+        "revision_id": [
+            {
+                "value": 1245
+            }
+        ],
+        "langcode": [
+            {
+                "value": "fr"
+            }
+        ],
+        "vid": [
+            {
+                "target_id": "type_service_ul",
+                "target_type": "taxonomy_vocabulary",
+                "target_uuid": "1d64206d-028d-4eb2-ac45-e2b76f919e4b"
+            }
+        ],
+        "revision_created": [],
+        "revision_user": [],
+        "revision_log_message": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "name": [
+            {
+                "value": "D\u00e9partement, \u00e9cole"
+            }
+        ],
+        "description": [
+            {
+                "value": null,
+                "format": null,
+                "processed": ""
+            }
+        ],
+        "weight": [
+            {
+                "value": 0
+            }
+        ],
+        "parent": [
+            {
+                "target_id": null
+            }
+        ],
+        "changed": [
+            {
+                "value": "2019-05-14T19:31:15+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "content_translation_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "671a5d99-bc79-4196-9da5-6623cf84923c",
+                "url": "/en/user/1"
+            }
+        ],
+        "content_translation_created": [
+            {
+                "value": "2019-05-14T19:31:15+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ]
+    }
+]

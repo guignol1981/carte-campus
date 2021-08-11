@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
 import './registerServiceWorker';
-import router from './router';
+import { RouterFactory } from './router';
 import store from './store';
 import '@/css/tailwind.css';
 import i18n from './i18n';
@@ -11,7 +11,7 @@ Vue.config.productionTip = false;
 Vue.use(firebasePlugin);
 
 new Vue({
-    router,
+    router: RouterFactory(Vue.prototype.$auth),
     store,
     i18n,
     render: h => h(App)
